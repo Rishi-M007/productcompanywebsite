@@ -523,7 +523,6 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 ![output](./home.png)
-![output](./products.png)
 ![output](./contact.png)
 ![output](./about.png)
 
